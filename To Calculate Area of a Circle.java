@@ -6,7 +6,7 @@ public class MyClass {
       
       System.out.print("Enter Radius :");
       Scanner sc = new Scanner(System.in);
-      int radius = sc.nextInt();
+      double radius = sc.nextDouble();
       
       double area = 3.14*radius*radius;
       
