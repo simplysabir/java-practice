@@ -1,4 +1,4 @@
-//program to print months wrt to numbers using switch
+//calculator
 
 import java.util.*;
 public class MyClass {
