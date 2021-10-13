@@ -1,4 +1,4 @@
-//java exercise 1 question 6
+//java exercise 1 question 7
 //have to change some thing.  it is taking number one by one but we want user to enter all Number First 
 import java.util.*;
 public class MyClass {
